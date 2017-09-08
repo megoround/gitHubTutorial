@@ -1,2 +1,6 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 master BrancSS
+=======
+Test2!ZEEEE
+>>>>>>> TestSec
